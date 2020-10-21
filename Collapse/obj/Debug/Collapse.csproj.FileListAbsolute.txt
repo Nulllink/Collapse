@@ -1,0 +1,10 @@
+F:\VisualStudio\Collapse\Collapse\bin\Debug\Collapse.exe.config
+F:\VisualStudio\Collapse\Collapse\bin\Debug\Collapse.exe
+F:\VisualStudio\Collapse\Collapse\bin\Debug\Collapse.pdb
+F:\VisualStudio\Collapse\Collapse\obj\Debug\Collapse.csprojAssemblyReference.cache
+F:\VisualStudio\Collapse\Collapse\obj\Debug\Collapse.Form1.resources
+F:\VisualStudio\Collapse\Collapse\obj\Debug\Collapse.Properties.Resources.resources
+F:\VisualStudio\Collapse\Collapse\obj\Debug\Collapse.csproj.GenerateResource.cache
+F:\VisualStudio\Collapse\Collapse\obj\Debug\Collapse.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Collapse\Collapse\obj\Debug\Collapse.exe
+F:\VisualStudio\Collapse\Collapse\obj\Debug\Collapse.pdb
